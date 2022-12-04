@@ -5,3 +5,4 @@ Pillow
 plotly
 folium
 streamlit_folium
+sklearn
