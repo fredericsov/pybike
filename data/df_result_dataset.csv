@@ -1,0 +1,9 @@
+Model,R2_test,R2_train,RMSE_test,RMSE_train,MSE_test,MSE_train,MAE_test,MAE_train
+RandomForestRegressor,0.82,0.97,10.55,4.02,111.32,16.15,7.4,2.84
+BaggingRegressor,0.82,0.98,10.46,3.96,109.43,15.66,7.4,2.8
+DecisionTreeRegressor,0.66,1.0,14.52,0.0,210.95,0.0,9.5,0.0
+ElasticNetCV,0.53,0.57,17.12,16.37,293.14,267.91,13.8,12.7
+AdaBoostRegressor,0.53,0.58,17.1,16.21,292.44,262.65,14.37,13.78
+LinearRegression,0.53,0.57,17.07,16.36,291.38,267.61,13.76,12.69
+Ridge,0.53,0.57,17.07,16.36,291.42,267.61,13.76,12.69
+Lasso,0.49,0.54,17.85,16.93,318.54,286.61,14.1,13.2
