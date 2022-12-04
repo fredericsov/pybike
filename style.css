@@ -48,10 +48,10 @@ section[data-testid="stSidebar"] .st-bk {
   background-color: #b989bd;
 }
 
-section[data-testid="stSidebar"] .st-c0 {
+/*section[data-testid="stSidebar"] .st-c0 {
   background-color: black;
 }
-
+*/
 section[data-testid="stSidebar"] hr {
   margin-top: 30px;
   border-color: white;
